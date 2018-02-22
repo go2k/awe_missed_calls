@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MissedCalls</string>
+    <string name="template">Sie haben %1$d verpasste Anrufe</string>
+    <string name="explain_accept">Bitte gewähren der App die Berechtigung, weil is so!</string>
+    <string name="explain_denied">Die Berechtigung wurde verweigert</string>
+    <string name="verstanden">Sie haben es verstanden</string>
+</resources>
